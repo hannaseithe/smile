@@ -1,0 +1,15 @@
+body {font-family:verdana}
+
+.slider {
+  width: 300px;
+  display:inline-block;
+  height:20px;
+}
+
+#slider7 span.ui-slider-handle.ui-state-default.ui-corner-all {
+	background: #ff78aa;
+}
+
+#slider7 .ui-slider-range {
+	background: #ffbad3;
+}
